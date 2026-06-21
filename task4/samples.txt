@@ -1,0 +1,2 @@
+Target Image True Category: frog
+Model Generated Autoregressive Text: this is a                      
